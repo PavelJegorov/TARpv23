@@ -46,3 +46,8 @@ try:
 except :
     print("Viga andmetüübiga")
 
+print()
+
+#4
+puu = float(input("Напиши длину окружности дерева"))
+läbimõõt = 
